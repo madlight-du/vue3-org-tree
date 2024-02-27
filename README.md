@@ -1,38 +1,7 @@
-# vue-org-tree
+# vue3-org-tree
 
-> A simple organization tree chart based on Vue2.x
+> 基于vue-org-tree的vue3实现
 
-## Usage
-
-### NPM
-
-```
-# use npm
-npm i vue2-org-tree
-
-# use yarn
-yarn add vue2-org-tree
-```
-### Import Plugins
-
-``` js
-import Vue from 'vue'
-import Vue2OrgTree from 'vue2-org-tree'
-
-Vue.use(Vue2OrgTree)
-
-// ...
-```
-
-### CDN
-
-``` html
-# css
-<link href="https://unpkg.com/vue2-org-tree/dist/style.css">
-
-# js
-<script src="https://unpkg.com/vue/dist/vue.js"></script>
-<script src="https://unpkg.com/vue2-org-tree/dist/index.js"></script>
 ```
 
 
